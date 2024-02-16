@@ -13,7 +13,7 @@ ul li:nth-child(odd) {
   background-color: white;
 }
 
-ul li:first-child, 
+ul li:first-child{font-size:22px;}
 ul li:last-child {
   font-size: 22px;
 }
